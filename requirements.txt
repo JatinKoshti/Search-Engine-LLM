@@ -1,0 +1,43 @@
+python-dotenv
+streamlit
+click
+
+# Langchain and integrations
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-groq
+langchain-huggingface
+langchain-chroma
+
+# Vector store
+chromadb
+
+# Embeddings
+sentence-transformers
+
+# Tools and search APIs
+arxiv
+wikipedia
+duckduckgo-search
+
+# Optional for notebook support
+ipykernel
+
+#SQL Libraries
+mysql-connector-python
+SQLAlchemy
+
+
+validators==0.28.1
+youtube_transcript_api
+unstructured
+pytube
+numexpr
+huggingface_hub
+ipywidgets
+gradio
+
+
+
